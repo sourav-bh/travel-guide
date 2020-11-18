@@ -6,7 +6,7 @@
     "description": "Number one place to visit anytime, please go there and enjoy the beauty of nature.",
     "latitude": 26.8486747,
     "longitude": 80.8724726,
-    "image": "https://images.unsplash.com/photo-1605718666382-4eb9bd7e1961?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE4NDExMH0"
+    "image": "https://images.unsplash.com/photo-1605718666382-4eb9bd7e1961"
     },
     {
     "id": 2,
@@ -14,7 +14,7 @@
     "description": "Awesome place to visit at winter, please visit once and grab some memorable experiences.",
     "latitude": 26.8486216,
     "longitude": 80.8724719,
-    "image": "https://images.unsplash.com/photo-1605719882531-74e91eb0ccf4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE4NDExMH0"
+    "image": "https://images.unsplash.com/photo-1605719882531-74e91eb0ccf4"
     },
     {
     "id": 3,
@@ -22,7 +22,7 @@
     "description": "Marvelous place to visit in summer, please travel there with your family and see the beauty.",
     "latitude": 26.8486301,
     "longitude": 80.8724792,
-    "image": "https://images.unsplash.com/photo-1524513778-9cb75ef422a6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE4NDExMH0"
+    "image": "https://images.unsplash.com/photo-1524513778-9cb75ef422a6"
     }
   ],
   "profile": {
