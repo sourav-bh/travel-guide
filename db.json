@@ -26,6 +26,11 @@
     }
   ],
   "profile": {
-    "name": "user user"
+    "name": "Shreya Jamsandekar",
+    "email": "shreya@gmail.com",
+    "profile_picture": "https://pixy.org/src/246/thumbs350/2462840.jpg",
+    "country": "India",
+    "gender": "F",
+    "phone": "+910234567891",
   }
 }
