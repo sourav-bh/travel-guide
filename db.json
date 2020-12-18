@@ -24,17 +24,5 @@
     "longitude": 80.8724792,
     "image": "https://images.unsplash.com/photo-1524513778-9cb75ef422a6"
     }
-  ],
-  "profile": {
-    "name": "Shreya Jamsandekar",
-    "email": "shreya@gmail.com",
-    "profile_picture": "https://pixy.org/src/246/thumbs350/2462840.jpg",
-    "country": "India",
-    "gender": "F",
-    "phone": "+910234567891"
-  },
-  "login": {
-    "username": "shreya@gmail.com",
-    "password": "Shreya1234$"
-  }
+  ]
 }
